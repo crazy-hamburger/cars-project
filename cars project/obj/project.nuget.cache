@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e6zAeCCfc9aYiFtYXQukc52Fi/p8BXth1Vaup5fUM5OI7GLvkWsdX83yGep+MU9gXMxrHMx7y3h1y6r50Ynrzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivaro\\source\\repos\\cars project\\cars project\\cars project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivaro\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\ivaro\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}

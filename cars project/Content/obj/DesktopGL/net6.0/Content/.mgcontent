@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ivaro/source/repos/cars project/cars project/Content/DefaultCar.png</File>
+    <File>C:/Users/ivaro/source/repos/cars project/cars project/Content/explosion.wav</File>
+    <File>C:/Users/ivaro/source/repos/cars project/cars project/Content/explosion3.png</File>
+    <File>C:/Users/ivaro/source/repos/cars project/cars project/Content/GameFont.spritefont</File>
+    <File>C:/Users/ivaro/source/repos/cars project/cars project/Content/GameMusic.mp3</File>
+    <File>C:/Users/ivaro/source/repos/cars project/cars project/Content/GOD.png</File>
+    <File>C:/Users/ivaro/source/repos/cars project/cars project/Content/healthbar.png</File>
+    <File>C:/Users/ivaro/source/repos/cars project/cars project/Content/MenuMusic.mp3</File>
+    <File>C:/Users/ivaro/source/repos/cars project/cars project/Content/player.png</File>
+    <File>C:/Users/ivaro/source/repos/cars project/cars project/Content/road.png</File>
+    <File>C:/Users/ivaro/source/repos/cars project/cars project/Content/shrek.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
