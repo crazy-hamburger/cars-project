@@ -1,4 +1,2 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/ivaro/source/repos/cars project/cars project/Content/DefaultCar.png","C:/Users/ivaro/source/repos/cars project/cars project/Content/bin/DesktopGL/DefaultCar.xnb","TextureProcessor","Texture2DContent",10687,121045,0,2448784
-"C:/Users/ivaro/source/repos/cars project/cars project/Content/GOD.png","C:/Users/ivaro/source/repos/cars project/cars project/Content/bin/DesktopGL/GOD.xnb","TextureProcessor","Texture2DContent",11969,24085,0,0032206
-"C:/Users/ivaro/source/repos/cars project/cars project/Content/shrek.png","C:/Users/ivaro/source/repos/cars project/cars project/Content/bin/DesktopGL/shrek.xnb","TextureProcessor","Texture2DContent",10408,24085,0,0028673
+"C:/Users/ivaro/source/repos/cars project/cars project/Content/MenuMusic.mp3","C:/Users/ivaro/source/repos/cars project/cars project/Content/bin/DesktopGL/MenuMusic.xnb","SongProcessor","SongContent",5416821,127,2,9817598

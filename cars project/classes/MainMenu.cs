@@ -17,7 +17,7 @@ namespace cars_project.classes
         private int selected;
         private KeyboardState keyboardState;        // нынешнее состояние клавиатуры
         private KeyboardState prevKeyboardState; // предыдущее состояние клавиатуры
-        private Song menuSong;
+        private Song gameSong;
 
         public event Action OnPlayingStarted;
 
@@ -48,8 +48,8 @@ namespace cars_project.classes
                 label.Position = new Vector2(label.Position.X - label.Width / 2,
                     label.Position.Y);
             }
-            menuSong = content.Load<Song>("MenuMusic");
-            MediaPlayer.Play(menuSong);
+            gameSong = content.Load<Song>("GameMusic");
+            MediaPlayer.Play(gameSong);
         }
 
         public void Update()

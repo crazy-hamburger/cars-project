@@ -86,6 +86,12 @@
 /processorParam:Quality=Best
 /build:MenuMusic.mp3
 
+#begin MenuMusic.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:MenuMusic.mp3
+
 #begin player.png
 /importer:TextureImporter
 /processor:TextureProcessor
